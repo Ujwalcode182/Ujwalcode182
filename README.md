@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ujwalcode182
+- 👋 Hi, I’m @Ujcode182
 - 👀 I’m interested in web devlopment
 - 💞️ I’m looking to collaborate on full stack devlopment projects
 
